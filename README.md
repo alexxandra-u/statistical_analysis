@@ -1,3 +1,3 @@
 # statistical_analysis
 
-Работы сделанные в рамсках курса "Прикладной статистический анализ"
+Work made during  "Applied statistical analysis" course
